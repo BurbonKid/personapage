@@ -25,14 +25,14 @@
         </p>
         <ul>
           <li>
-            <i class="bi bi-diagram-3"></i>
+            <i class="bi bi-book"></i>
             <div>
               <h4>Fachabitur</h4>
               <p>Abschluss des Fachabiturs im Bereich Technik-Naturwissenschaft.</p>
             </div>
           </li>
           <li>
-            <i class="bi bi-fullscreen-exit"></i>
+            <i class="bi bi-award"></i>
             <div>
               <h4>English Level C1</h4>
               <p>Certified through school in Ireland</p>
