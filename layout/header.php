@@ -47,10 +47,8 @@
           <i class="bi bi-phone d-flex align-items-center ms-4"><span>unknown</span></i>
         </div>
         <div class="social-links d-none d-md-flex align-items-center">
-          <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-          <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-          <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+          <a href="https://github.com/BurbonKid" class="twitter"><i class="bi bi-github"></i></a>
+          <a href="https://www.linkedin.com/in/philipp-anh%C3%A4u%C3%9Fer-b44896338/" class="linkedin"><i class="bi bi-linkedin"></i></a>
         </div>
       </div>
     </div><!-- End Top Bar -->

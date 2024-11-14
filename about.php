@@ -63,23 +63,23 @@
     <div class="col-lg-6">
 
       <div class="progress">
-        <span class="skill"><span>HTML</span> <i class="val">60%</i></span>
+        <span class="skill"><span>HTML - Basics</span> <i class="val">30%</i></span>
         <div class="progress-bar-wrap">
-          <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
       <div class="progress">
-        <span class="skill"><span>CSS</span> <i class="val">90%</i></span>
+        <span class="skill"><span>CSS - Basics</span> <i class="val">30%</i></span>
         <div class="progress-bar-wrap">
-          <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
       <div class="progress">
-        <span class="skill"><span>C#</span> <i class="val">50%</i></span>
+        <span class="skill"><span>C# - Basics</span> <i class="val">30%</i></span>
         <div class="progress-bar-wrap">
-          <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
@@ -88,23 +88,23 @@
     <div class="col-lg-6">
 
       <div class="progress">
-        <span class="skill"><span>Python</span> <i class="val">60%</i></span>
+        <span class="skill"><span>Python - Basics/Intermediate</span> <i class="val">45%</i></span>
         <div class="progress-bar-wrap">
-          <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
       <div class="progress">
-        <span class="skill"><span>WordPress/CMS</span> <i class="val">90%</i></span>
+        <span class="skill"><span>Office - Intermediate</span> <i class="val">50%</i></span>
         <div class="progress-bar-wrap">
-          <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
       <div class="progress">
-        <span class="skill"><span>SQL</span> <i class="val">70%</i></span>
+        <span class="skill"><span>SQL - Basics</span> <i class="val">30%</i></span>
         <div class="progress-bar-wrap">
-          <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 

@@ -20,15 +20,15 @@
           <i class="bi bi-geo-alt flex-shrink-0"></i>
           <div>
             <h3>Addresse</h3>
-            <p>Was geht Sie das an?!</p>
+            <p>Brücktorstraße</p>
           </div>
         </div><!-- End Info Item -->
 
         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
           <i class="bi bi-telephone flex-shrink-0"></i>
           <div>
-            <h3>Einfach Anrufen</h3>
-            <p>unknown</p>
+            <h3>Rufnummer</h3>
+            <p>Nur auf Anfrage</p>
           </div>
         </div><!-- End Info Item -->
 
